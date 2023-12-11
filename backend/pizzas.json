@@ -1,0 +1,158 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Tonno",
+      "ingredients": [
+        "tuna",
+        "cheese",
+        "garlic",
+        "olives",
+        "onions",
+        "tomato sauce",
+        "oregano"
+      ],
+      "price": 13,
+      "img": "/images/tonno.jpg",
+      "allergens": [
+        "A",
+        "C",
+        "D",
+        "G"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gamberetti",
+      "ingredients": [
+        "shrimps",
+        "cheese",
+        "garlic",
+        "parsley",
+        "tomato sauce"
+      ],
+      "price": 13,
+      "allergens": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Margarita",
+      "ingredients": [
+        "cheese",
+        "tomato sauce",
+        "oregano"
+      ],
+      "price": 10,
+      "allergens": [
+        "A",
+        "G"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Spinaci",
+      "ingredients": [
+        "cheese",
+        "spinach",
+        "feta",
+        "tomato sauce"
+      ],
+      "price": 13,
+      "allergens": [
+        "A",
+        "G"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Salami",
+      "ingredients": [
+        "cheese",
+        "tomato sauce",
+        "salami"
+      ],
+      "price": 13,
+      "allergens": [
+        "A",
+        "C",
+        "G"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pepperoni",
+      "ingredients": [
+        "tomato sauce",
+        "cheese",
+        "garlic",
+        "olives",
+        "salami di pepperoni"
+      ],
+      "price": 12,
+      "allergens": [
+        "A",
+        "C",
+        "D",
+        "G"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "N'Duja Calabrese",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella di buffala",
+        "garlic",
+        "nduja",
+        "half-dried tomatoes",
+        "pecorino"
+      ],
+      "price": 14,
+      "allergens": [
+        "A",
+        "C",
+        "D",
+        "G"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Pizza Di Mario",
+      "ingredients": [
+        "tomato sauce",
+        "calamari",
+        "shrimps",
+        "mozzarella di buffala",
+        "garlic"
+      ],
+      "price": 12,
+      "allergens": [
+        "A",
+        "C",
+        "D",
+        "G"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pizza Biancho",
+      "ingredients": [
+        "fior di latte",
+        "crema di pistacchio",
+        "cocktail tomatoes",
+        "olive oil"
+      ],
+      "price": 12,
+      "allergens": [
+        "A",
+        "C",
+        "D",
+        "G"
+      ]
+    }
+  ]
+}

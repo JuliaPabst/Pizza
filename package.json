@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "devStart": "nodemon ./backend/server.js"
+  },
+  "dependencies": {
+    "consolidate": "^0.16.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "html": "^1.0.0",
+    "swig": "^1.4.2"
+  },
+  "name": "pizza-order-prototype-javascript-daar93",
+  "description": "No starter code is provided. Start from scratch!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/pizza-order-prototype-javascript-Daar93.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/pizza-order-prototype-javascript-Daar93/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/pizza-order-prototype-javascript-Daar93#readme"
+}
